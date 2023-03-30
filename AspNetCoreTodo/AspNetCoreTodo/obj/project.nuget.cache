@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5H8SHK6QQUQnBmKojllxlANYNF+5xOPggKyZn6JJQPRuBXOrgPdv/WF6ySrf1UviUYAAqbwkiH+WpyzzisqyXg==",
+  "dgSpecHash": "2HZVCHEhddCbpuvy8MYGa5ZKY6vZVZdA5tkqciTqeNgV3zo0SVvx2d6nBL9dir/VuWdXZCDVNBLRNY1zO9exAA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\calculator\\v2_tutorial_c#\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
+  "projectFilePath": "C:\\dev\\Tutorial-ASP-.NET-Core\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahristov_evicertia\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ahristov_evicertia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.4\\microsoft.aspnetcore.cryptography.internal.7.0.4.nupkg.sha512",

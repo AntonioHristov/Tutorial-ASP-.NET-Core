@@ -77,3 +77,15 @@ C:\dev\calculator\v2_tutorial_c#\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\
 C:\dev\calculator\v2_tutorial_c#\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\AspNetCoreTodo.pdb
 C:\dev\calculator\v2_tutorial_c#\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\AspNetCoreTodo.genruntimeconfig.cache
 C:\dev\calculator\v2_tutorial_c#\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\ref\AspNetCoreTodo.dll
+C:\dev\Tutorial-ASP-.NET-Core\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\AspNetCoreTodo.csproj.AssemblyReference.cache
+C:\dev\Tutorial-ASP-.NET-Core\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\AspNetCoreTodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Tutorial-ASP-.NET-Core\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+C:\dev\Tutorial-ASP-.NET-Core\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\AspNetCoreTodo.AssemblyInfo.cs
+C:\dev\Tutorial-ASP-.NET-Core\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+C:\dev\Tutorial-ASP-.NET-Core\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\AspNetCoreTodo.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\Tutorial-ASP-.NET-Core\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\AspNetCoreTodo.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\Tutorial-ASP-.NET-Core\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\AspNetCoreTodo.RazorAssemblyInfo.cache
+C:\dev\Tutorial-ASP-.NET-Core\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\AspNetCoreTodo.RazorAssemblyInfo.cs
+C:\dev\Tutorial-ASP-.NET-Core\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\AspNetCoreTodo.dll
+C:\dev\Tutorial-ASP-.NET-Core\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\refint\AspNetCoreTodo.dll
+C:\dev\Tutorial-ASP-.NET-Core\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\net7.0\AspNetCoreTodo.pdb

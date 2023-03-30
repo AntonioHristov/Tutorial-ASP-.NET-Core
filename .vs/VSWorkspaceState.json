@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AspNetCoreTodo",
+    "\\AspNetCoreTodo\\AspNetCoreTodo",
+    "\\AspNetCoreTodo\\AspNetCoreTodo\\Views",
+    "\\AspNetCoreTodo\\AspNetCoreTodo\\Views\\Todo"
   ],
   "PreviewInSolutionExplorer": false
 }

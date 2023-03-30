@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\calculator\\v2_tutorial_c#\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {}
+    "C:\\dev\\Tutorial-ASP-.NET-Core\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {}
   },
   "projects": {
-    "C:\\dev\\calculator\\v2_tutorial_c#\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {
+    "C:\\dev\\Tutorial-ASP-.NET-Core\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\calculator\\v2_tutorial_c#\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
+        "projectUniqueName": "C:\\dev\\Tutorial-ASP-.NET-Core\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
         "projectName": "AspNetCoreTodo",
-        "projectPath": "C:\\dev\\calculator\\v2_tutorial_c#\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
+        "projectPath": "C:\\dev\\Tutorial-ASP-.NET-Core\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
         "packagesPath": "C:\\Users\\ahristov_evicertia\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\calculator\\v2_tutorial_c#\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\",
+        "outputPath": "C:\\dev\\Tutorial-ASP-.NET-Core\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahristov_evicertia\\AppData\\Roaming\\NuGet\\NuGet.Config",
